@@ -3,8 +3,8 @@ Simple labyrinth generator
 
 ## Compilation
 
-	clang -O3 maze.c
-	clang -O3 bigmaze.c
+	clang -O3 maze.c -o maze
+	clang -O3 bigmaze.c -o bigmaze
 
 ## Use
 
