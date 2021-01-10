@@ -19,3 +19,7 @@ Parameters are:
 1. second tap
 1. amount of scale variation (bigmaze only)
 1. minimum scale (bigmaze only)
+
+## Example output
+
+![example labyrinth](example.png)
