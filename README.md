@@ -30,6 +30,9 @@ Parameters are:
 ## Example output
 
 From bigmaze.c:
+
 ![example labyrinth](example.png)
+
 From periodic.c:
+
 ![waves](waves.png)
